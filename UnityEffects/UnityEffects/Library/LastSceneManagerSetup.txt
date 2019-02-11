@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/(8)Examples/Frag/BlurUV/BlurUV.unity
+  isLoaded: 1
+  isActive: 1
